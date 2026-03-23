@@ -6,19 +6,18 @@ Day 1 was pretty stock standard stuff. Below, as I intended to do with all of my
 Then following the discussion on the concepts learned, I will walk through the lab.
 ## Feynman Technique
 So firstly:
-**What is a Network?
-**A network is devices that are connected together in order to share resources. 
+**What is a Network?** 
+A network is devices that are connected together in order to share resources. 
 
-**What is a Client? 
-**A client is simply a device that is requesting services that are accessible from a server. 
+**What is a Client?** A client is simply a device that is requesting services that are accessible from a server. 
 
-The next obvious question is **what is a server? **
+The next obvious question is **what is a server?**
 A server is simply a device that provides a service to a client. 
 
 Hence the most basic client-server relationship!
 
-**Next what is a Switch?
-**A switch forwards traffic between devices that are within the same LAN. A LAN is a group of connected devices that are in a closer vicinity i.e. home, office or a small building. 
+**Next what is a Switch?**
+A switch forwards traffic between devices that are within the same LAN. A LAN is a group of connected devices that are in a closer vicinity i.e. home, office or a small building. 
 
 So how do LANs communicate with eachother?
 **This is where a router comes in.** A router just connects to LANs together over the Internet. 
