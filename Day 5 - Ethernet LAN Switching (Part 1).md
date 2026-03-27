@@ -1,4 +1,4 @@
-# Day 5 - Ethernet LAN Switching Part 1
+# Day 5 - Ethernet LAN Switching (Part 1)
 
 Today's session was theory heavy and mainly focused on what is in a Ethernet Header and Trailer and the process of devices communicating with eachother in the same LAN. 
 
