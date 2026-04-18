@@ -1,4 +1,4 @@
-# Day 13, 14 AND 15 - Subnetting
+# Day 13, 14 and 15 - Subnetting
 I have decided to combine days 13, 14 and 15 together as they all dicuss subnetting. Now subnetting is a fundamental component of the CCNA, however there is not a great deal of theory on it. It is more _how_ to subnet that the actual concepts behind it. Therefore, for the theory sections of these documents, I'll keep it brief as I will be mainly practicing how to subnet over actually talking about it. 
 
 ## Feynman Technique
